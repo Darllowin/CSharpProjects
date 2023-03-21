@@ -1,0 +1,30 @@
+D:\programs\VSc\project\WindowsForms(Zmeika)\WindowsForms(Zmeika)\bin\Debug\WindowsForms(Zmeika).exe.config
+D:\programs\VSc\project\WindowsForms(Zmeika)\WindowsForms(Zmeika)\bin\Debug\WindowsForms(Zmeika).exe
+D:\programs\VSc\project\WindowsForms(Zmeika)\WindowsForms(Zmeika)\bin\Debug\WindowsForms(Zmeika).pdb
+D:\programs\VSc\project\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).csproj.AssemblyReference.cache
+D:\programs\VSc\project\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms_Zmeika_.Form1.resources
+D:\programs\VSc\project\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms_Zmeika_.Properties.Resources.resources
+D:\programs\VSc\project\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).csproj.GenerateResource.cache
+D:\programs\VSc\project\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).csproj.CoreCompileInputs.cache
+D:\programs\VSc\project\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).exe
+D:\programs\VSc\project\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).pdb
+D:\Общая\ИСП 22.11\WindowsForms(Zmeika)\WindowsForms(Zmeika)\bin\Debug\WindowsForms(Zmeika).exe.config
+D:\Общая\ИСП 22.11\WindowsForms(Zmeika)\WindowsForms(Zmeika)\bin\Debug\WindowsForms(Zmeika).exe
+D:\Общая\ИСП 22.11\WindowsForms(Zmeika)\WindowsForms(Zmeika)\bin\Debug\WindowsForms(Zmeika).pdb
+D:\Общая\ИСП 22.11\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).csprojAssemblyReference.cache
+D:\Общая\ИСП 22.11\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms_Zmeika_.Form1.resources
+D:\Общая\ИСП 22.11\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms_Zmeika_.Properties.Resources.resources
+D:\Общая\ИСП 22.11\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).csproj.GenerateResource.cache
+D:\Общая\ИСП 22.11\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).csproj.CoreCompileInputs.cache
+D:\Общая\ИСП 22.11\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).exe
+D:\Общая\ИСП 22.11\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).pdb
+C:\Users\mrshu\Desktop\WindowsForms(Zmeika)\WindowsForms(Zmeika)\bin\Debug\WindowsForms(Zmeika).exe.config
+C:\Users\mrshu\Desktop\WindowsForms(Zmeika)\WindowsForms(Zmeika)\bin\Debug\WindowsForms(Zmeika).exe
+C:\Users\mrshu\Desktop\WindowsForms(Zmeika)\WindowsForms(Zmeika)\bin\Debug\WindowsForms(Zmeika).pdb
+C:\Users\mrshu\Desktop\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).csproj.AssemblyReference.cache
+C:\Users\mrshu\Desktop\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms_Zmeika_.Form1.resources
+C:\Users\mrshu\Desktop\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms_Zmeika_.Properties.Resources.resources
+C:\Users\mrshu\Desktop\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).csproj.GenerateResource.cache
+C:\Users\mrshu\Desktop\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).csproj.CoreCompileInputs.cache
+C:\Users\mrshu\Desktop\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).exe
+C:\Users\mrshu\Desktop\WindowsForms(Zmeika)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).pdb
