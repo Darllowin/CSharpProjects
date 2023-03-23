@@ -1,0 +1,12 @@
+C:\Users\mrshu\Desktop\WindowsForms(Snake)\WindowsForms(Zmeika)\bin\Debug\WindowsForms(Zmeika).exe.config
+C:\Users\mrshu\Desktop\WindowsForms(Snake)\WindowsForms(Zmeika)\bin\Debug\WindowsForms(Zmeika).exe
+C:\Users\mrshu\Desktop\WindowsForms(Snake)\WindowsForms(Zmeika)\bin\Debug\WindowsForms(Zmeika).pdb
+C:\Users\mrshu\Desktop\WindowsForms(Snake)\WindowsForms(Zmeika)\obj\Debug\Interop.WMPLib.dll
+C:\Users\mrshu\Desktop\WindowsForms(Snake)\WindowsForms(Zmeika)\obj\Debug\SnakeWinForms.csproj.ResolveComReference.cache
+C:\Users\mrshu\Desktop\WindowsForms(Snake)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).g.resources
+C:\Users\mrshu\Desktop\WindowsForms(Snake)\WindowsForms(Zmeika)\obj\Debug\WindowsForms_Zmeika_.Form1.resources
+C:\Users\mrshu\Desktop\WindowsForms(Snake)\WindowsForms(Zmeika)\obj\Debug\WindowsForms_Zmeika_.Properties.Resources.resources
+C:\Users\mrshu\Desktop\WindowsForms(Snake)\WindowsForms(Zmeika)\obj\Debug\SnakeWinForms.csproj.GenerateResource.cache
+C:\Users\mrshu\Desktop\WindowsForms(Snake)\WindowsForms(Zmeika)\obj\Debug\SnakeWinForms.csproj.CoreCompileInputs.cache
+C:\Users\mrshu\Desktop\WindowsForms(Snake)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).exe
+C:\Users\mrshu\Desktop\WindowsForms(Snake)\WindowsForms(Zmeika)\obj\Debug\WindowsForms(Zmeika).pdb
